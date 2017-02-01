@@ -1,0 +1,12 @@
+{
+  "name": "wordpress-react-child-theme",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node node_modules/wordpress-react-theme/index.js"
+  },
+  "author": "Charlie Jackson",
+  "license": "MIT"
+}
