@@ -1,7 +1,6 @@
 [submodule "wordpress"]
 	path = wordpress
 	url = git://github.com/WordPress/WordPress.git
-
-[submodule "wordpress-react-theme"]
+[submodule "content/themes/wordpress-react-theme"]
 	path = content/themes/wordpress-react-theme
 	url = git://github.com/cajacko/wordpress-react-theme.git
